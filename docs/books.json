@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "The Flutter Journey",
+    "author": "Alice Dart",
+    "price": 19.99,
+    "category": "Technology",
+    "imagePath": "https://example.com/images/flutter1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mastering Dart",
+    "author": "Bob Lang",
+    "price": 24.99,
+    "category": "Technology",
+    "imagePath": "https://example.com/images/flutter2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Romance in Paris",
+    "author": "Claire Amour",
+    "price": 14.50,
+    "category": "Romance",
+    "imagePath": "https://example.com/images/romance1.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Sci-Fi Beyond Earth",
+    "author": "Zed Star",
+    "price": 17.75,
+    "category": "Science Fiction",
+    "imagePath": "https://example.com/images/scifi1.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Ancient Kings",
+    "author": "Lucius Historica",
+    "price": 21.00,
+    "category": "History",
+    "imagePath": "https://example.com/images/history1.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Cooking with Flutter",
+    "author": "Chef Widget",
+    "price": 18.25,
+    "category": "Cooking",
+    "imagePath": "https://example.com/images/cooking1.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Mindfulness Today",
+    "author": "Zen Flow",
+    "price": 13.49,
+    "category": "Wellness",
+    "imagePath": "https://example.com/images/wellness1.jpg"
+  },
+  {
+    "id": 8,
+    "title": "JavaScript for Kids",
+    "author": "Code Jr",
+    "price": 16.80,
+    "category": "Technology",
+    "imagePath": "https://example.com/images/tech-kids1.jpg"
+  }
+]
